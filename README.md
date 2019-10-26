@@ -2,7 +2,7 @@
 file 1.php Soal Nomor 1 </br>
 Tinggal Jalankan File .java maka akan muncul hasil sesuai fungsinya </br>
 file 2.php Soal Nomor 2 </br>
-Masukkan Jumlah yang diinginkan dan hasil gambar akan tampil
+Masukkan Jumlah yang diinginkan dan hasil gambar akan tampil </br>
 file 3.php Soal Nomor 3 </br>
 file 4.php Soal Nomor 4 </br>
 file 5.php Soal Nomor 5 </br>
